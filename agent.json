@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "FoodOrdering",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Almaty",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "c7e814df3d71405eb33126e5cd11cc53",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/foodordering-whlx/knowledgeBases/MTM1NjM0MjI2MDgxMjg0NzUxMzY"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 1.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
